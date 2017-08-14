@@ -28,7 +28,7 @@ Você deve implementar um aplicativo em php que irá agendar uma tarefa para ser
 
 # Requisitos Login
 
- - Tela de Login e senha;
+ - Tela de Login e senha; 
  
  - Apresentar os possíveis erros se não conseguir logar;
  
